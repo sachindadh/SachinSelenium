@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3183" started-at="2020-09-06T08:06:23Z" finished-at="2020-09-06T08:06:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3183" started-at="2020-09-06T08:06:23Z" finished-at="2020-09-06T08:06:26Z">
+      <class name="testng.DemoTestNg">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="beforeTest" is-config="true" duration-ms="16" started-at="2020-09-06T13:36:23Z" finished-at="2020-09-06T13:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="practice()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="practice" is-config="true" duration-ms="0" started-at="2020-09-06T13:36:23Z" finished-at="2020-09-06T13:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practice -->
+        <test-method status="PASS" signature="abc()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="abc" is-config="true" duration-ms="1" started-at="2020-09-06T13:36:23Z" finished-at="2020-09-06T13:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method status="PASS" signature="zzzz()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="zzzz" duration-ms="5" started-at="2020-09-06T13:36:23Z" finished-at="2020-09-06T13:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zzzz -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="demo" is-config="true" duration-ms="1" started-at="2020-09-06T13:36:23Z" finished-at="2020-09-06T13:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="abc()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="abc" is-config="true" duration-ms="1" started-at="2020-09-06T13:36:23Z" finished-at="2020-09-06T13:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method status="PASS" signature="xxxx()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="xxxx" duration-ms="3103" started-at="2020-09-06T13:36:23Z" depends-on-methods="testng.DemoTestNg.zzzz" finished-at="2020-09-06T13:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xxxx -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="demo" is-config="true" duration-ms="4" started-at="2020-09-06T13:36:26Z" finished-at="2020-09-06T13:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="abc()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="abc" is-config="true" duration-ms="0" started-at="2020-09-06T13:36:26Z" finished-at="2020-09-06T13:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method status="PASS" signature="aaaa()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="aaaa" duration-ms="2" started-at="2020-09-06T13:36:26Z" depends-on-methods="testng.DemoTestNg.xxxx, testng.DemoTestNg.zzzz" finished-at="2020-09-06T13:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aaaa -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="demo" is-config="true" duration-ms="2" started-at="2020-09-06T13:36:26Z" finished-at="2020-09-06T13:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="practice1()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="practice1" is-config="true" duration-ms="1" started-at="2020-09-06T13:36:26Z" finished-at="2020-09-06T13:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practice1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testng.DemoTestNg@5c7fa833]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-09-06T13:36:26Z" finished-at="2020-09-06T13:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testng.DemoTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
